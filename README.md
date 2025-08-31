@@ -19,10 +19,10 @@ Repositori ini berisi beberapa studi kasus pemrograman web menggunakan PHP dan C
 - **Penjelasan:**  
   Bagian ini berisi contoh form input data mahasiswa dan menampilkan data dalam bentuk tabel HTML. Data disimpan sementara di session (tanpa database) dan ditampilkan menggunakan looping PHP.
 - **Akses:**  
-  Form & tabel mahasiswa (session): `http://localhost/mahasiswa/No_2/Part_1/biodata.php`
-  Form mahasiswa (database): `http://localhost/mahasiswa/No_2/Part_2/biodata_db.php`
-  List mahasiswa (database): `http://localhost/mahasiswa/No_2/Part_3/list_biodata.php`
-  Detail mahasiswa (database): `http://localhost/mahasiswa/No_2/Part_3/detail_biodata.php`
+  - Form & tabel mahasiswa (session): `http://localhost/mahasiswa/No_2/Part_1/biodata.php`
+  - Form mahasiswa (database): `http://localhost/mahasiswa/No_2/Part_2/biodata_db.php`
+  - List mahasiswa (database): `http://localhost/mahasiswa/No_2/Part_3/list_biodata.php`
+  - Detail mahasiswa (database): `http://localhost/mahasiswa/No_2/Part_3/detail_biodata.php`
 
 ---
 
