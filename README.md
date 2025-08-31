@@ -71,5 +71,4 @@ Repositori ini berisi beberapa studi kasus pemrograman web menggunakan PHP dan C
 - **HTML** (Form & Table)
 - **MySQL** (Database)
 - **CodeIgniter 4** (Framework MVC)
-- **Bootstrap** (opsional, jika digunakan untuk styling)
-- **Web Server**
+- **XAMPP**
